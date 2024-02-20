@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "courier";
+    src: url("fonts/CourierPrime-Bold.ttf");
+}
+
+.body {
+    background-color: rgb(212, 21, 21);
+    max-width: 1240px;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    word-spacing: 100pt;
+    font-size: 30px; 
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    word-spacing: 70pt;
+    text-align: center;
+    font-size: 60px;
+}
+
+.pic {	 
+    width: 910px;
+    height: 680px;
+}
+
+.one {
+    width: 300px;
+    height: 250px;
+}
+.head {
+    background-color: white;
+    margin-left: 65pt;
+    margin-right: 65pt;
+    margin-top: 35pt;
+    margin-bottom: 35pt;
+}
+
+.parent {
+    margin-left: 75pt;
+    margin-right: 75pt;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+}
+.para {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bolder;
+}
+.capt {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
